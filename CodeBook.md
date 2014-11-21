@@ -1,6 +1,10 @@
 Code Book - Train and Test Dataset from UCI Machine Learning Repository
 
+
+
 ===============================================================================
+
+
 Test and Train Variables:
 
 tBodyAcc-mean()-X
